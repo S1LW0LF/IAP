@@ -1,5 +1,3 @@
-package aiproject;
-
 import java.sql.Connection;
 import java.sql.ResultSet;
 import javax.swing.*;
