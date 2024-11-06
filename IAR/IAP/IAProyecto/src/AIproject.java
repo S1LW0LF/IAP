@@ -51,7 +51,7 @@ mainFrame.setLayout(null);
         backgroundLabel.setBounds(0, 0, 1920, 1080); // Ajustar al tamaño de la ventana
         
         // Crear el texto de bienvenida
-        JLabel welcomeLabel = new JLabel("<html>INSTITUTO TECNOLOGICO DE ZACAEC<br><br>Nombre: LORENCILLA CARVAJAL JESÚS EMMANUEL"
+        JLabel welcomeLabel = new JLabel("<html>INSTITUTO TECNOLOGICO DE ZACATEPEC<br><br>Nombre: LORENCILLA CARVAJAL JESÚS EMMANUEL"
                 + "<br><br>No.de control: 20091120<br><br>'SISTEMAS EXPERTO PARA EL DIAGNOSTICO DE ENFERMEDADES'</html>", SwingConstants.CENTER);
         welcomeLabel.setBounds(400, 50, 800, 600); // Ajustar el tamaño y posición del texto
         welcomeLabel.setFont(new Font("Serif", Font.BOLD, 24)); // Tipo de letra "Serif", negrita, tamaño 24
